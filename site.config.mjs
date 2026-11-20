@@ -15,7 +15,7 @@
 export default {
   site: {
     url: 'https://sagebluff.kevin-c4h.workers.dev', // no trailing slash — confirm after first Cloudflare deploy
-    googleSiteVerification: null, // Search Console HTML-tag "content" value
+    googleSiteVerification: 'iGL3Bz__8RNdVzwpAM_SUsL5D3_HjCxcvnNeXDYX0T4', // Search Console HTML-tag "content" value
     locale: 'en_US',
     language: 'en-US',
   },
